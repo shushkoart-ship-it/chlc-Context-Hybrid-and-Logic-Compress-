@@ -1,4 +1,3 @@
-```markdown
 # CHLC — Context Hybrid and Logical Compress
 
 **Analyze. Adapt. Compress.**
